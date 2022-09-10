@@ -1,10 +1,9 @@
 # PROJETO LOGIN 
 - Minha primeira aplicação com o FrameWork Laravel
 
-![Captura de Tela (158)](https://user-images.githubusercontent.com/85001629/189488601-c551ef7f-26f0-42db-8d9d-2fee99b2aef8.png)
-![Captura de Tela (157)](https://user-images.githubusercontent.com/85001629/189488602-3572f829-e248-47fb-871e-f9e990a5508a.png)
+<img align="center" alt="Gabriel-HTML" height="500" width="1000" src="https://user-images.githubusercontent.com/85001629/189488601-c551ef7f-26f0-42db-8d9d-2fee99b2aef8.png">
 
-
+<img align="center" alt="Gabriel-HTML" height="500" width="1000" src="https://user-images.githubusercontent.com/85001629/189488602-3572f829-e248-47fb-871e-f9e990a5508a.png">
 
 # Funcionalidades
   - Cria o usuário
@@ -18,4 +17,6 @@
 <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
 <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
 <img align="center" alt="bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
+<img align="center" alt="bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+          
 </div>
