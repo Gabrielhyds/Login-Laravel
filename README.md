@@ -1,4 +1,4 @@
-# PROJETO LOGIN 
+# PROJETO CADASTRO - LOGIN 
 - Minha primeira aplicação com o FrameWork Laravel
 
 <img align="center" alt="Gabriel-HTML" height="500" width="1000" src="https://user-images.githubusercontent.com/85001629/189488601-c551ef7f-26f0-42db-8d9d-2fee99b2aef8.png">
